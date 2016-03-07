@@ -17,6 +17,7 @@
 <remove-project name="platform/packages/apps/Browser" path="packages/apps/Browser" />
 <remove-project name="platform_frameworks_base" path="frameworks/base" remote="github" />
 <remove-project name="platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" />
+<remove-project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox"/> 
 <project name="shubhmg/platform_frameworks_base" path="frameworks/base" remote="github" revision="mm6.0" />
 <project name="shubhmg/platform_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="mm6.0" />
 
