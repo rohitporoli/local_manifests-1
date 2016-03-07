@@ -9,7 +9,7 @@
 <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="git" revision="cm-13.0" />
 
 <!--Camera dependency-->
-<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="git" revision$
+<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="git" revision="cm13.0" />
 
 <!--Snap camera-->
 <project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" remote="git" revision="cm-13.0" />
