@@ -6,18 +6,18 @@
 <project path="device/motorola/otus" name="shubhmg/android_device_motorola_otus" remote="github" revision="aosp" />
 <project path="device/motorola/msm8610-common" name="shubhmg/android_device_motorola_msm8610-common" remote="github" revision="aosp" />
 <project path="kernel/motorola/msm8610" name="VRToxin-Devices/android_kernel_motorola_msm8610" remote="github" revision="M"/>
-<project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="git" revision="cm-13.0" />
+<project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" revision="cm-13.0" />
 
 <!--Camera dependency-->
-<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="git" revision="cm13.0" />
+<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm13.0" />
 
 <!--Snap camera-->
-<project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" remote="git" revision="cm-13.0" />
+<project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" remote="github" revision="cm-13.0" />
 
 <!--Add HALS-->
-<project path="hardware/qcom/audio-caf/msm8974" name="CyanogenMod/android_hardware_qcom_audio" remote="cm" revision="cm-13.0-caf-8974" />
-<project path="hardware/qcom/media-caf/msm8974" name="CyanogenMod/android_hardware_qcom_media" remote="cm" revision="cm-13.0-caf-8974" />
-<project path="hardware/qcom/display-caf/msm8974" name="CyanogenMod/android_hardware_qcom_display" remote="cm" revision="cm-13.0-caf-8974" />
+<project path="hardware/qcom/audio-caf/msm8974" name="CyanogenMod/android_hardware_qcom_audio" remote="github" revision="cm-13.0-caf-8974" />
+<project path="hardware/qcom/media-caf/msm8974" name="CyanogenMod/android_hardware_qcom_media" remote="github" revision="cm-13.0-caf-8974" />
+<project path="hardware/qcom/display-caf/msm8974" name="CyanogenMod/android_hardware_qcom_display" remote="github" revision="cm-13.0-caf-8974" />
 
 <!-- Use my repos with fixes and additions-->
 <remove-project name="platform/packages/apps/Browser" path="packages/apps/Browser" />
