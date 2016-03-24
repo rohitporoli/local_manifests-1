@@ -12,7 +12,7 @@
 
 
 <!--Camera dependency-->
-<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="git" revision="cm13.0" />
+<project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="git" revision="cm-13.0" />
 
 
 <!--Snap camera-->
