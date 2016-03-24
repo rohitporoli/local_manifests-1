@@ -7,7 +7,7 @@
 <project path="device/motorola/condor" name="shubhmg/android_device_motorola_condor" remote="git" revision="aosp" />
 <project path="device/motorola/otus" name="shubhmg/android_device_motorola_otus" remote="git" revision="aosp" />
 <project path="device/motorola/msm8610-common" name="shubhmg/android_device_motorola_msm8610-common" remote="git" revision="aosp" />
-<project path="kernel/motorola/msm8610" name="VRToxin-Devices/android_kernel_motorola_msm8610" remote="github" revision="M"/>
+<project path="kernel/motorola/msm8610" name="VRToxin-Devices/android_kernel_motorola_msm8610" remote="git" revision="M"/>
 <project path="vendor/motorola" name="shubhmg/android_vendor_motorola_msm8610" remote="git" revision="cm-13.0" />
 
 
