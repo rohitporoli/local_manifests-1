@@ -3,12 +3,11 @@
 <remote  name="git"
            fetch="https://github.com" />
 
-<!--Add Device Condor(Moto-E) and Otus(Moto-E2)-->
-<project path="device/motorola/condor" name="shubhmg/android_device_motorola_condor" remote="git" revision="aosp" />
-<project path="device/motorola/otus" name="shubhmg/android_device_motorola_otus" remote="git" revision="aosp" />
-<project path="device/motorola/msm8610-common" name="shubhmg/android_device_motorola_msm8610-common" remote="git" revision="aosp" />
-<project path="kernel/motorola/msm8610" name="VRToxin-Devices/android_kernel_motorola_msm8610" remote="git" revision="M"/>
-<project path="vendor/motorola" name="shubhmg/android_vendor_motorola_msm8610" remote="git" revision="cm-13.0" />
+<!--Add Device OnePlus X (Onyx)-->
+<project path="device/oneplus/onyx" name="TeamExodus/device_oneplus_onyx" remote="git" revision="EXODUS-6.0" />
+<project path="device/oppo/common" name="TeamExodus/device_oppo_common" remote="git" revision="EXODUS-6.0" />
+<project path="kernel/oneplus/onyx" name="TeamExodus/kernel_oneplus_onyx" remote="git" revision="EXODUS-6.0"/>
+<project path="vendor/oneplus/onyx" name="TeamExodus/vendor_oneplus_onyx" remote="git" revision="EXODUS-6.0" />
 
 
 <!--Camera dependency-->
